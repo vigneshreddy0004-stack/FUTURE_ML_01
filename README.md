@@ -45,4 +45,4 @@ python sales_forecasting.py
 Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook.
 
 ## Author
-Your Name
+Vignesh reddy
