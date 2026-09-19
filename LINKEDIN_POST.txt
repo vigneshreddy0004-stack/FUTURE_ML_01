@@ -1,0 +1,21 @@
+LinkedIn Post — Future Interns ML Task 1
+
+Excited to share my first Machine Learning internship project with Future Interns!
+
+📊 Project: Sales & Demand Forecasting
+
+I built a sales forecasting model using Python, Pandas, NumPy, Matplotlib and Scikit-learn.
+
+Key work:
+• Cleaned and explored historical sales data
+• Created time-based, lag and rolling features
+• Trained a Random Forest regression model
+• Evaluated the model using MAE, RMSE and MAPE
+• Created business-friendly actual vs forecast visualizations
+• Interpreted feature importance for business planning
+
+This project helped me understand how machine learning can support inventory, staffing and promotion planning.
+
+🔗 GitHub: PASTE_YOUR_GITHUB_LINK_HERE
+
+#MachineLearning #Python #DataScience #FutureInterns #SalesForecasting #ScikitLearn #Pandas
